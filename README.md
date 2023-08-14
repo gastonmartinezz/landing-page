@@ -1,4 +1,4 @@
-# top-landing-page
+# landing-page
 TOP landing page
 
 This is my version of the landing page project from The Odin Project. 
